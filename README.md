@@ -21,3 +21,10 @@ This foundational script creates a data representation of the map by procedurall
 Contains many support functions for sampling the grid and converting to and from grid coordinates (2D indices).
 
 Contains the ability to "corrupt" the map using recursion to change a map dynamically as the game progresses. Used in the endless mode.
+
+
+## Weapon Script C#
+
+This is an abstract class representation of a weapon.
+
+Takes advantage of inheritance to allow for the modular implementation of multiple weapons with the rest of the game systems.
