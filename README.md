@@ -6,3 +6,7 @@ Below are some code samples for some of the systems I designed and created for t
 
 ---
 ## Boss Script
+
+This is a finite state machine script with direct-pathing towards the player
+
+The script supports 2 boss phases and 5 different attacks
