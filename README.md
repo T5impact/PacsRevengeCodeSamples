@@ -14,3 +14,6 @@ The script supports 2 boss phases, with 4 different projectile attacks and 1 mel
 The boss randomly chooses a projectile attack to do based on available attacks that dynamically change throughout the fight.
 
 
+# Map Script C#
+
+This foundational script creates a code representation of the map by procedurally populating a 2D grid array by converting 3D coordinates to 2D indices.
