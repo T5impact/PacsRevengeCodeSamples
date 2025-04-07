@@ -5,7 +5,7 @@ Pac's Revenge is a 2.5D retro-style FPS game which takes inspiration from classi
 Below are some code samples for some of the systems I designed and created for the game.
 
 ---
-## Boss Script
+## Boss Script C#
 
 This is a finite state machine script with direct-pathing towards the player.
 
