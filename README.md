@@ -16,7 +16,7 @@ The boss randomly chooses a projectile attack to do based on available attacks t
 
 ## Map Script C#
 
-This foundational script creates a data representation of the map by procedurally populating a 2D grid array by converting 3D coordinates to 2D indices.
+This foundational script creates a data representation of the map by procedurally populating a 2D grid array by referencing 3D game objects and converting their 3D coordinates to 2D indices.
 
 Contains many support functions for sampling the grid and converting to and from grid coordinates (2D indices).
 
